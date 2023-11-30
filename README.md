@@ -1,2 +1,1 @@
-# divariotaufiq.github.io
-My Portfolio 2023
+# Portofolio Web Divario 2023
